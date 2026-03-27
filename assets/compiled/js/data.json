@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "customers": 120,
+    "vehicles": 85,
+    "revenue": 54000,
+    "pending": 12
+  },
+  "clients": [
+    {"name": "Ravi", "service": "Oil Change", "status": "Completed"},
+    {"name": "Anita", "service": "Brake Repair", "status": "Pending"}
+  ],
+  "feedback": [
+    {"name": "Kiran", "comment": "Excellent service"},
+    {"name": "Meena", "comment": "Quick and reliable"}
+  ]
+}
